@@ -1,0 +1,63 @@
+body{
+  background-color: #116083;
+}
+div{
+  min-height: 2vh;
+  /*border: 1px solid #E6E6E6;
+  padding: 4px;*/
+}
+textarea{
+  resize: none;
+}
+
+
+.logo_img{
+  display: block;
+  width: 100px;
+}
+.user-img{
+  display: block;
+  width: 100%;
+  max-width: 65px;
+  margin: auto;
+}
+.marginT{
+  margin-top: 2vh;
+}
+.padding-TB{
+  padding-top: 1.5vh;
+  padding-bottom: 1.5vh;
+}
+.padding-TB-2{
+  padding: 2.5rem;
+}
+.nav-redes{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+.nav-redes li a img{
+  width: 1.8vw;
+  min-width: 25px;
+}
+.bg-navmenu{
+  background-color: #1C9BD3;
+}
+a.bg-navmenu{
+  border-color: #1C9BD3;
+}
+a.bg-navmenu:hover {
+  background-color: #126387;
+  border-color: #126387
+}
+.bg-footer{
+  background-color: #F8F9FA;
+}
+.minHB{
+  
+}
+
+footer table tr th,
+footer table tr th{
+  padding: 5px 30px 5px 20px;
+}
